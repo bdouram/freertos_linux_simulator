@@ -100,7 +100,7 @@ static void xTaskHandlerUDP_Rx(void *params){
 
 	/* Task Frequency */
 	portTickType xLastWakeTime;
-	const portTickType xFrequency = 5000; // 1000 milliseconds.
+	const portTickType xFrequency = 1000; // 1000 milliseconds.
 	xLastWakeTime = xTaskGetTickCount();
 
 	 /* Open a socket for sending. */
