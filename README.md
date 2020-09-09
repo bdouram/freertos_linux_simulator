@@ -14,7 +14,28 @@ Execution is guaranteed in Debug mode.
 
 #### Instructions
 
-Download the source code and import the project into Eclipse.
+Download the source code.
 ```
 git clone https://github.com/bdouram/freertos_linux_simulator
 ```
+
+Import to Eclipse.
+
+![Importing to eclipse](./.images/01.png)
+
+
+Select the project and click on finish.
+
+![Selecting project](./.images/02.png)
+
+![Selecting project](./.images/03.png)
+
+CAUTION: There are some problems with the link between eclipse and makefile generation, so disable the automatic makefile generation option.
+
+![Caution](./.images/04.png)
+
+![Caution](./.images/05.png)
+
+Click "Apply" and close the window.
+
+Now, you can build the project e run the debbugger, if you want.
