@@ -43,3 +43,6 @@ CAUTION: There are some problems with the link between eclipse and makefile gene
 Click "Apply" and close the window.
 
 Now, you can build the project e run the debbugger, if you want.
+
+
+The application code must be inserted on main.c
