@@ -4,6 +4,10 @@ This repository is a branch of a simulator created by William Davy and with the 
 
 The only changes are made to the compilation files, which have been TESTED ONLY for Ubuntu 20.04.
 
+An RTOS is an operating system that aims to provide greater temporal predictability than a general-purpose operating system. Remember that it is a simulator, so do not use it in real scenarios.
+
+
+
 Execution is guaranteed in Debug mode.
 
 #### Dependencies
